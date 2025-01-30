@@ -1,0 +1,683 @@
+{
+  "project_info": {
+    "project_number": "881157721637",
+    "firebase_url": "https://exnay-a6d8d-default-rtdb.firebaseio.com",
+    "project_id": "exnay-a6d8d",
+    "storage_bucket": "exnay-a6d8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:2d0ee3f726d1e068ec39cc",
+        "android_client_info": {
+          "package_name": "app.tokunbo12m.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-8kdhnu5vpvts77jua3htce8vl1dai22a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.tokunbo12m.com",
+            "certificate_hash": "bca9466002d922db3c01454bb1d4190bcab6b690"
+          }
+        },
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:f43e920f0a1abf80ec39cc",
+        "android_client_info": {
+          "package_name": "chinese.to.englishapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:347fad5bd5217fa8ec39cc",
+        "android_client_info": {
+          "package_name": "com.app.oviaroappng100"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:58c66743b533dff1ec39cc",
+        "android_client_info": {
+          "package_name": "com.app.oviaroappnga11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:0b045eda525087ccec39cc",
+        "android_client_info": {
+          "package_name": "chinese.to.englishapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:f0d01927b68bd425ec39cc",
+        "android_client_info": {
+          "package_name": "com.e1688lite.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:f8fee6486452bc34ec39cc",
+        "android_client_info": {
+          "package_name": "com.examlyweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-oi5uk983l5nt3mq7g5ismo6rbhi35dbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.examlyweb",
+            "certificate_hash": "caa15d3af6faaa42ba52bd669cab687b704002ea"
+          }
+        },
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:1fb8b47f0e449d9fec39cc",
+        "android_client_info": {
+          "package_name": "com.example.videostreamingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:7820a359c1a0733dec39cc",
+        "android_client_info": {
+          "package_name": "com.jumappbuild.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:dbbd3fe1ca5c6fb1ec39cc",
+        "android_client_info": {
+          "package_name": "com.oviaappabuduq.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-oeshe90j5etb2sm0r9heg6ed1dbkivvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oviaappabuduq.app",
+            "certificate_hash": "861e8137daaf7665ed7855a05144a64bd9217419"
+          }
+        },
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:1566a1980802b82dec39cc",
+        "android_client_info": {
+          "package_name": "com.pidginapp.ng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:3b20910bad9328d3ec39cc",
+        "android_client_info": {
+          "package_name": "com.pinduoduoenglishguide.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:6ea6bc56088791a8ec39cc",
+        "android_client_info": {
+          "package_name": "com.usadating.appqw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:ee709ecdc2860a4aec39cc",
+        "android_client_info": {
+          "package_name": "com.whapsup.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:a32aa7bf3ad2f9adec39cc",
+        "android_client_info": {
+          "package_name": "miggdd.madeinusa.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:b56ad27ca0fae998ec39cc",
+        "android_client_info": {
+          "package_name": "net.appdevs.MightyBilluseruser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:c4fa32fb5c7a1db9ec39cc",
+        "android_client_info": {
+          "package_name": "online.marketplace.allinone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881157721637:android:e9ee1acf82ffe4deec39cc",
+        "android_client_info": {
+          "package_name": "pidgin_messenger.ng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3jxOWYY0CoxtMcA0KVguEtd7mV9xtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881157721637-f2ks94baqs5fdd1g6av1v3kb8s6althi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881157721637-bb3ttagv3j2im430pfsh017f0uml1mvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oviaappabuduq.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

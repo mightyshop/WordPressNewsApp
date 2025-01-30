@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--AdMob or Google Ad Manager App ID-->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!--AppLovin SDK Key-->
+    <string name="applovin_sdk_key">x5ImfykxaMWsntpF6fuNGlFBtC9zBJuGcewTMs8XXXXXXXXXXXX</string>
+
+    <!--Enable it with true value if want to the app will force to display open ads first before start the main menu-->
+    <!--Longer duration to start the app may occur depending on internet connection or open ad response time itself-->
+    <bool name="force_to_show_app_open_ad_on_start">false</bool>
+
+</resources>

@@ -1,0 +1,85 @@
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+}
+
+android {
+    namespace 'com.app.wordpressnewsapps'
+    compileSdk 35
+    defaultConfig {
+        applicationId "chinese.to.englishapp"
+        minSdk 21
+        targetSdk 35
+        versionCode 2
+        versionName "1.2.1"
+        multiDexEnabled true
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    buildFeatures {
+        buildConfig = true
+    }
+    bundle {
+        storeArchive {
+            enable = false
+        }
+    }
+    lint {
+        disable 'GradleDependency', 'GradleDynamicVersion'
+    }
+}
+
+dependencies {
+    //AndroidX and Google support library
+    implementation 'androidx.appcompat:appcompat:1.7.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.lifecycle:lifecycle-process:2.7.0'
+    implementation 'androidx.lifecycle:lifecycle-runtime:2.7.0'
+    implementation 'androidx.lifecycle:lifecycle-common-java8:2.7.0'
+    implementation 'androidx.recyclerview:recyclerview:1.3.2'
+    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
+    implementation 'androidx.work:work-runtime:2.9.0'
+    implementation 'com.google.android.flexbox:flexbox:3.0.0'
+    implementation 'com.google.android.material:material:1.9.0'
+    implementation 'com.google.android.play:review:2.0.1'
+    implementation 'com.google.android.play:app-update:2.1.0'
+
+    //Rest API
+    implementation 'com.squareup.retrofit2:converter-gson:2.11.0'
+    implementation 'com.squareup.retrofit2:retrofit:2.11.0'
+    implementation 'com.squareup.okhttp3:okhttp:4.12.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.12.0'
+
+    //Firebase
+    implementation platform('com.google.firebase:firebase-bom:33.3.0')
+    implementation 'com.google.firebase:firebase-analytics'
+
+    //Ad Network Sdk, see the documentation for other Ad Network Sdk options
+    implementation 'com.github.solodroid-dev:multi-ads-sdk:2.+'
+
+    //Push notification
+    implementation 'com.github.solodroid-dev:push-notification-sdk:1.+'
+
+    //Image library
+    implementation 'com.github.bumptech.glide:glide:4.16.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.16.0'
+    implementation 'com.github.chrisbanes:PhotoView:2.1.4'
+
+    //Shimmer effect
+    implementation 'com.facebook.shimmer:shimmer:0.5.0'
+
+    //Local storage
+    implementation 'androidx.room:room-runtime:2.6.1'
+    annotationProcessor 'androidx.room:room-compiler:2.6.1'
+
+    //Multidex
+    implementation 'androidx.multidex:multidex:2.0.1'
+
+    //Html parser
+    implementation 'org.jsoup:jsoup:1.18.1'
+
+    //File utils
+    implementation 'commons-io:commons-io:2.17.0'
+}
